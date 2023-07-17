@@ -150,7 +150,6 @@ label_usr = Label(text="username:", bg=TEAL, fg=DARK_TEAL, font=("arial", 12, "b
 label_usr.grid(column=0, row=2)
 
 input_usr = Entry(width=35)
-input_usr.insert(0, "surve@duck.com")
 input_usr.grid(column=1, row=2, columnspan=2, sticky="EW")
 
 # --------PASSWORD--------- #
