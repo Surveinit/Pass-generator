@@ -1,7 +1,6 @@
 # Pass-generator_
 
-A simple password manager application built with Python and Tkinter. It allows you to generate secure passwords, save them along with website information, 
-and retrieve passwords when needed.
+A simple password manager application built with Python and Tkinter that can be your microproject. It allows you to generate secure passwords, save them along with website information, and retrieve passwords when needed. Thank me Later😁!
 
 #Features
 
